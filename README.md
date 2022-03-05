@@ -1,5 +1,6 @@
 # quick_pick_4D
 This script is to generate unique and random 4D numbers if you do not trust the Singapore pools' 4D quick pick.
+Just for fun:)
 
 Steps to run this:
 Download this into your desired folder
