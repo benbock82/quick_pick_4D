@@ -13,8 +13,8 @@ def quick_pick_4D(bets):
         # create an empty one_4D to store the number generated
         one_4D = []
         for num in range(4):
-            rand_4D = random.randint(1, 9)
-            one_4D.append(rand_4D)
+            rand_1D = random.randint(0, 9)
+            one_4D.append(rand_1D)
             # convert the list of 4 integers into a string of 4 numbers (i.e 8877)
             string_4D = [str(D) for D in one_4D]
             string_4D = "".join(string_4D)
